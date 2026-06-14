@@ -4,6 +4,7 @@
 
 ```bash
 pip install requests beautifulsoup4
-
-git clone
+git clone https://github.com/LK-HACKERS/Website-Cloner.git
+cd Website-Cloner
+python3 run.py
 ```
